@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React state updates within class components.  Incorrect usage of `this.setState()` can lead to unexpected behavior where the state doesn't update as expected. The `bug.js` file showcases the incorrect approach, and `bugSolution.js` provides the correct solution using functional updates.
